@@ -1,7 +1,7 @@
 # ESP32_ESP-IDF_7segment-cook-book-4
 ## 1.ระบุตัวอย่างที่ใช้ ว่าเอามาจากตัวอย่างไหน
 
-
+![image](https://github.com/user-attachments/assets/b8dd3115-2063-4fad-a16b-684882dfd1a3)
 ## 2.ระบุว่า จะแก้ไขตรงไหนบ้าง เพื่ออะไร
 เปลี่ยนชื่อไฟล์แล้วทำการเพิ่มโค้ดดังต่อไปนี้เพื่อให้ไฟวิ่งเเสดงผลติดทีละสองดวง
 ![image](https://github.com/user-attachments/assets/3399b379-2bc6-4dac-bca5-a7e07562210d)
